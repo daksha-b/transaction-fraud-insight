@@ -1,0 +1,15 @@
+1. List all transaction details (transaction ID, date, amount) along with the customer name and ID.
+2. Find the total number of transactions made by each customer.
+3. Get the total transaction amount for each customer
+4. Find all transactions above a specific amount threshold 
+5. List the top 5 transactions with the highest amounts.
+6. List details of customers whose transactions were flagged as suspicious.
+7. Find transactions with anomaly scores above a threshold (0.9)
+8. Summarize the total transaction amount per month.
+9. List merchants with the most transactions flagged as suspicious.
+10. Calculate a "fraud score" for each customer based on the number of suspicious transactions and anomaly scores.
+11. Rank merchants by their risk score, defined as the ratio of suspicious(fraud) transactions to total transactions.
+12. Find customers who have not made any transactions in the past year.
+13. Find the transaction categories associated with the highest number of fraud transactions.
+14. Compute the total transaction amount and average transaction value for each customer.
+15. Detect merchants with high-value transactions significantly exceeding their average transaction amount.
